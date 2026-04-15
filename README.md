@@ -158,12 +158,8 @@ http://127.0.0.1:8000/
 
 ## 🖼️ Resultado del Laboratorio
 
-📌 **Aquí debes colocar tu captura de pantalla del sistema funcionando:**
-
-```
 ![Resultado1]("C:\Users\Sarmi\Documents\ESTE SEMESTRE\DS-VII\4. Actividades o Asignaciones\2. Laboratorios o talleres\Laboratorio 2\registro-laravel.jpg")
-![Resultado2]("C:\Users\Sarmi\Documents\ESTE SEMESTRE\DS-VII\4. Actividades o Asignaciones\2. Laboratorios o talleres\Laboratorio 2\login-laravel.jpg")
-```
+
 
 
 
